@@ -9,12 +9,18 @@ The application ensures secure and efficient transactions for users, allowing th
 
 #Features
 
-#1. User Authentication
+1. User Authentication
+
 Manager and Customer login options.
+
 Separate functionalities and access levels for managers and customers.
 
-#2. Customer Features
+2. Customer Features
+
 Check Account Balance: View available balance in the account.
+
 Deposit Funds: Deposit money into the account.
+
 Withdraw Funds: Withdraw money from the account.
+
 Make Purchases: Purchase items and manage account balances accordingly.
